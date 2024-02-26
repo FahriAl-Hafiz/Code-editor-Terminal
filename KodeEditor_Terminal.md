@@ -44,6 +44,9 @@ lalu untuk vim kita akan membuat ulang program kalkulator . masukan perintah di 
 
 buat kode di dalam vim , dengan pengaturan yang sama degan neovim.
 
+![kalkulator_vim](https://github.com/FahriAl-Hafiz/Code-editor-Terminal/assets/126375451/b3281d1a-b1ea-4fc4-b09c-91aade9d4953)
+
+
 jika sudah tekan ':wq' untuk save dan quit.
 
 untuk menjalankan file python yang baru saja dibuat kita akan menggunakan perintah 'python'.
